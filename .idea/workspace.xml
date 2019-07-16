@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c337a2a-f503-4934-8365-d26804abdb7b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/jackson/index.html" afterPath="$PROJECT_DIR$/jackson/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jackson/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="590" column="52" lean-forward="false" selection-start-line="590" selection-start-column="52" selection-end-line="590" selection-end-column="52" />
+            <state relative-caret-position="185">
+              <caret line="67" column="52" lean-forward="true" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -40,6 +39,11 @@
     <findStrings>
       <find>jackson</find>
       <find>Blog</find>
+      <find>service</find>
+      <find>skill</find>
+      <find>Education</find>
+      <find>work</find>
+      <find>Contact</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,12 +136,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563260310445</updated>
       <workItem from="1563260312923" duration="2901000" />
-      <workItem from="1563263980890" duration="191000" />
+      <workItem from="1563263980890" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3092000" />
+    <option name="totallyTimeSpent" value="3497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="55" width="1293" height="773" extended-state="0" />
@@ -184,8 +188,8 @@
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/jackson/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="590" column="52" lean-forward="false" selection-start-line="590" selection-start-column="52" selection-end-line="590" selection-end-column="52" />
+        <state relative-caret-position="185">
+          <caret line="67" column="52" lean-forward="true" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
           <folding />
         </state>
       </provider>
