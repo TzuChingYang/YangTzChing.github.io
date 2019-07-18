@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c337a2a-f503-4934-8365-d26804abdb7b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/jackson/index.html" afterPath="$PROJECT_DIR$/jackson/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jackson/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="173" column="126" lean-forward="false" selection-start-line="173" selection-start-column="126" selection-end-line="173" selection-end-column="126" />
+            <state relative-caret-position="363">
+              <caret line="175" column="24" lean-forward="false" selection-start-line="175" selection-start-column="24" selection-end-line="175" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -163,12 +162,12 @@
       <workItem from="1563260312923" duration="2901000" />
       <workItem from="1563263980890" duration="4951000" />
       <workItem from="1563426494892" duration="1835000" />
-      <workItem from="1563452470662" duration="1750000" />
+      <workItem from="1563452470662" duration="1920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12117000" />
+    <option name="totallyTimeSpent" value="12287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="97" y="23" width="1244" height="828" extended-state="0" />
@@ -223,8 +222,8 @@
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/jackson/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="173" column="126" lean-forward="false" selection-start-line="173" selection-start-column="126" selection-end-line="173" selection-end-column="126" />
+        <state relative-caret-position="363">
+          <caret line="175" column="24" lean-forward="false" selection-start-line="175" selection-start-column="24" selection-end-line="175" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
