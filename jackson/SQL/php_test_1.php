@@ -18,6 +18,7 @@
 
     test();
     echo $y ;
+    echo "test Mamp : x's value is->$x" ;
 ?>
 </body>
 </html>
