@@ -16,7 +16,7 @@ $username = $email = $gender = $password = $birthday = $color = $agreement = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (empty($_POST["username"])) {
-        $usernameErr = "Userbame is required";
+        $usernameErr = "Username is required";
     } else {
         $username = $_POST["username"];
     }
